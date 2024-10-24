@@ -40,3 +40,7 @@ GUESS_GAME() {
     fi
   done
 }
+
+# username input
+echo "Enter your username:"
+read USERNAME
